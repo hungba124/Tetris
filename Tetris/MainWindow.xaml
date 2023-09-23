@@ -79,7 +79,7 @@
                        FontSize="48"
                        TextAlignment="Center" />
 
-                <TextBlock x:Name="FinalScore"
+                <TextBlock x:Name="FinalScoreText"
                            Text="Score: "
                            FontSize="36"
                            TextAlignment="Center" />
